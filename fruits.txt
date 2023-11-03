@@ -8,3 +8,4 @@ git log - used to check the list of all our commits
 
 git branch - this allows us to list all of our branches (the current branch is marked with an asterisk)
 git branch <branchName> - this allows us to create new branches in our repository
+git switch <branchName> - this command allows us to switch from one branch to another
