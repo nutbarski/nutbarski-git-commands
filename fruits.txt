@@ -3,3 +3,8 @@ git status - used to check the status of the work we've done inside of the folde
 git add <filename? - used to stage work from the work area to the staging area
 git commit -m "Message" - used to create history of our work
 git log - used to check the list of all our commits 
+
+===================================
+
+git branch - this allows us to list all of our branches (the current branch is marked with an asterisk)
+git branch <branchName> - this allows us to create new branches in our repository
