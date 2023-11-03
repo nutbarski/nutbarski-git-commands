@@ -1,0 +1,5 @@
+git init - this command is used to turn a folder into a git repo
+git status - used to check the status of the work we've done inside of the folder
+git add <filename? - used to stage work from the work area to the staging area
+git commit -m "Message" - used to create history of our work
+git log - used to check the list of all our commits 
